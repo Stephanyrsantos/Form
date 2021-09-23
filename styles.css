@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family:'Nunito', sans-serif;
+    color: #A0522D;
+    font-size: 12px;
+    font-weight: bolder;
+    
+    margin-top: 5px; 
+}
+label{
+    display: block;
+    border: 1px solid black;
+    padding:10px;
+    margin-top: 20px;
+    background: #adadad;
+    width: 350px;
+    text-align: center;
+    margin: 0 auto ;   
+}
+#eyes{
+    display: block;
+}
+
+#name{
+    border-color: #A52A2A;
+background-color: wheat
+
+}
+#email{
+border-color: #A52A2A;  
+background-color: wheat  
+}
+#age{
+border-color: #A52A2A;   
+background-color: wheat 
+}
+#birth-date{
+border-color: #A52A2A;  
+background-color: wheat  
+}
+#biography{
+    border-color: #A52A2A;
+    background-color: wheat
+}
+#phone-number{
+border-color: #A52A2A;
+background-color: wheat
+}
+#facebook-profile-link{
+border-color: #A52A2A;
+background-color: wheat
+}
+#password{
+border-color: #A52A2A;
+background-color: wheat
+}
+#clear-data:hover{
+cursor: pointer;
+font-weight: bolder;
+background-color: #B22222;
+color: black;
+border-color: red;
+}
+#send-data:hover{
+cursor:pointer ;
+font-weight: bolder;
+background-color: #B22222;
+color: black;
+border-color: red;
+}
